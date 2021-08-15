@@ -1,7 +1,7 @@
 /*
  * File: getline.c
  * Auth: Joseph Mahiuha
- *       Alex Mwaura
+ *       Lewis Mwaura
  */
 
 #include "shell.h"
