@@ -94,7 +94,7 @@ void assign_lineptr(char **lineptr, size_t *n, char *buffer, size_t b)
 }
 
 /**
- * _getline - Reads input from a stream.
+ * _getline - Reads input from a stream either file or user input.
  * @lineptr: A buffer to store the input.
  * @n: The size of lineptr.
  * @stream: The stream to read from.
