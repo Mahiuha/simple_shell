@@ -40,7 +40,7 @@ int num_len(int num)
 }
 
 /**
- * _itoa - Converts an integer to a string.
+ * _itoa - Converts an integer to a string to enable manipulation.
  * @num: The integer.
  *
  * Return: The converted string.
