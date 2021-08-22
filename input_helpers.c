@@ -111,7 +111,7 @@ int call_args(char **args, char **front, int *exe_ret)
  * @front: A double pointer to the beginning of args.
  * @exe_ret: The return value of the parent process' last executed command.
  *
- * Return: The return value of the last executed command.
+ * Return: The return value of the last executed command on the shell history.
  */
 int run_args(char **args, char **front, int *exe_ret)
 {
