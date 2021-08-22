@@ -11,7 +11,7 @@ ssize_t get_new_len(char *line);
 void logical_ops(char *line, ssize_t *new_len);
 
 /**
- * handle_line - Partitions a line read from standard input as needed.
+ * handle_line - Partitions a line read from standard input as needed or described.
  * @line: A pointer to a line read from standard input.
  * @read: The length of line.
  *
