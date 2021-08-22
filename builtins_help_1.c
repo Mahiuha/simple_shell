@@ -87,7 +87,7 @@ void help_exit(void)
 }
 
 /**
- * help_help - Displays information on the shellby builtin command 'help'.
+ * help_help - Displays information on the shellby builtin command 'help' an advanced man command.
  */
 void help_help(void)
 {
