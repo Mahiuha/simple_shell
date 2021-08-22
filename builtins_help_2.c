@@ -31,7 +31,7 @@ void help_setenv(void)
 
 /**
  * help_unsetenv - Displays information on the shellby builtin command
- * 'unsetenv'.
+ * 'unsetenv' as a better implementation.
  */
 void help_unsetenv(void)
 {
